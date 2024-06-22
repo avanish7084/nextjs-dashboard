@@ -1,3 +1,7 @@
-export default function(){
-    return <p>Customers Page</p>
-}
+// ./app/dashboard/customers/page.tsx
+
+const CustomersPage = () => {
+    return <p>Customers Page</p>;
+};
+
+export default CustomersPage;
