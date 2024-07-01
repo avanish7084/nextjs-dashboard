@@ -1,5 +1,16 @@
-## Next.js App Router Course - Starter
+## Next.js Dashboard Project
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This project is a full-stack application built with Next.js, with PostgreSQL as the database. It includes features like user authentication, a financial dashboard, and CRUD operations for invoices.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Features
+
+- **Styling**: Various methods to style your Next.js application.
+- **Optimizations**: Techniques to optimize images, links, and fonts.
+- **Routing**: Creation of nested layouts and pages using file-system routing.
+- **Data Fetching**: Setting up PostgreSQL on Vercel and best practices for fetching and streaming data.
+- **Search and Pagination**: Implementation of search and pagination using URL Search Params.
+- **Mutating Data**: Handling data mutations using React Server Actions and caching strategies in Next.js.
+- **Error Handling**: Techniques for handling general and 404 not found errors.
+- **Form Validation and Accessibility**: Server-side form validation and accessibility tips.
+- **Authentication**: Integration of authentication using NextAuth.js and Middleware.
+- **Metadata**: Adding metadata and optimizing for social sharing.
